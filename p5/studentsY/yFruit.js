@@ -58,7 +58,7 @@ Fruit.prototype.draw = function() {
   if (this.bad) {
 
     stroke(168, 146, 25); //black stroke
-    strokeWeight(1); //stroke weight
+    strokeWeight(2); //stroke weight
   } else {
 
     noStroke();

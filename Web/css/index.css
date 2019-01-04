@@ -12,8 +12,8 @@ html {
 }
 
 .card-body {
-  color: black;
-  background: white;
+  color: white;
+  background: gray;
 }
 
 .btn-primary {
@@ -23,7 +23,7 @@ html {
 
 /* ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲  */
 .card {
-  opacity: 0.9;
+  opacity: 0;
   transition: opacity .3s;
 }
 

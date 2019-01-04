@@ -1,29 +1,31 @@
 {
   "particles": {
     "number": {
-      "value": 120
+      "value": 500
     },
     "color": {
-      "value": "#ededed"
+      "value": "random"
     },
     "shape": {
-      "type": "star"
+      "type": "image",
+      "image": {
+        "src": "../images/smile face.png"
+      }
     },
     "size": {
-      "value": 10,
+      "value": 50,
       "random": true
     },
     "line_linked": {
-      "enable": false,
-      "distance": 300,
-      "color": "#ffffff",
-      "opacity": 0.4,
+      "enable": true,
+      "distance": 30,
+      "color": "#0dd4db",
+      "opacity": 10,
       "width": 2
     },
     "move": {
-      "enable": true,
-      "speed": 4,
-      "direction": "bottom",
+      "speed": 10,
+      "direction": "bottom-right",
       "straight": false,
       "out_mode": "out"
     }
