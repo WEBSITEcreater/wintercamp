@@ -9,7 +9,7 @@
     "shape": {
       "type": "image",
       "image": {
-        "src": "../images/smile-face.png"
+        "src": "../images/smileface.png"
       }
     },
     "size": {
