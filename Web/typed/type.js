@@ -45,7 +45,7 @@ jQuery(document).ready(function() {
   });
   var title4 = new Typed('#cardTitle4', {
     strings: [
-      'Another Cool Picture!',
+      'Shell Shockers!',
     ],
     typeSpeed: 30,
     backSpeed: 50,
@@ -55,7 +55,7 @@ jQuery(document).ready(function() {
   });
   var title5 = new Typed('#cardTitle5', {
     strings: [
-      'Another Cool Picture!',
+      'Picture of Toad!',
     ],
     typeSpeed: 30,
     backSpeed: 50,
