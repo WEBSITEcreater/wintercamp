@@ -126,7 +126,7 @@ function endGame() {
   noStroke();
   fill("#888888");
   textSize(100);
-  text("you no fruit ninja you a meat ninja!", width / 2, height / 2);
+  text("you no fruit ninja you a vetgitable ninja!", width / 2, height / 2);
   textSize(50);
   text("Press refresh to restart!", width / 2, height / 2 + 60);
 }
