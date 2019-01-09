@@ -99,11 +99,11 @@ function handleFruit() {
 function drawLives() {
 
   stroke(255);
-  strokeWeight(3);
-  fill("#FF00EE");
+  strokeWeight(0);
+  fill("#de0933");
 
   for (var i = lives; i > 0; i--) {
-		ellipse(width - (i * 20 + 20), 50, 20);
+		rect(width - (i * 20 + 20), 50, 20,20);
   }
 
 }

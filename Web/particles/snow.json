@@ -9,7 +9,7 @@
     "shape": {
       "type": "image",
       "image": {
-        "src": "images/smileface.png"
+        "src": "images/smile-face.png"
       }
     },
     "size": {
@@ -18,7 +18,7 @@
     },
     "line_linked": {
       "enable": true,
-      "distance": 30,
+      "distance": 25,
       "color": "#0dd4db",
       "opacity": 10,
       "width": 2

@@ -55,7 +55,7 @@ jQuery(document).ready(function() {
   });
   var title5 = new Typed('#cardTitle5', {
     strings: [
-      'Picture of Toad!',
+      'toad',
     ],
     typeSpeed: 30,
     backSpeed: 50,
@@ -65,10 +65,10 @@ jQuery(document).ready(function() {
   });
   var title6 = new Typed('#cardTitle6', {
     strings: [
-      'Another Cool Picture!',
+      'krunker.io',
     ],
-    typeSpeed: 30,
-    backSpeed: 50,
+    typeSpeed: 100,
+    backSpeed: 100,
     backDelay: 1500,
     loop: true,
     cursorChar: ' ',
