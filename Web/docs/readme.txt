@@ -15,8 +15,8 @@ A few important links -
 
 Getting started
   [✔️] Download files ⬇
-  [✔️] Open up in atom - Check this box!
-  [✔️] Start live server (ctrl + alt + L)
+  [__] Open up in atom - Check this box!
+  [__] Start live server (ctrl + alt + L)
     It might take a few seconds!
   [❗] Check point! [❗]
 

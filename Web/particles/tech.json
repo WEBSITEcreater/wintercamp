@@ -14,7 +14,7 @@
       }
     },
     "opacity": {
-      "value": 0,
+      "value": 0.75,
       "random": false
     },
     "size": {
