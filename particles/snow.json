@@ -24,7 +24,7 @@
       "width": 2
     },
     "move": {
-      "speed": 10,
+      "speed": 15,
       "direction": "bottom-right",
       "straight": false,
       "out_mode": "out"

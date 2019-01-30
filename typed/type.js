@@ -73,4 +73,5 @@ jQuery(document).ready(function() {
     loop: true,
     cursorChar: ' ',
   });
+
 });
